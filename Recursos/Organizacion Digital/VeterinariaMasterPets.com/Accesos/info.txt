@@ -1,0 +1,17 @@
+Panel de pagos de Hostgator:
+
+https://portal.hostgator.com
+Login name / email address:xxxxxxxx
+Password: xxxxxxxxxxxxx
+
+
+Acceso de Cpanel: https://gator4236.hostgator.com:2083
+    Username:          xxxxx
+    Domain:            xxxxx.com
+    Password:          xxxxx
+
+
+
+Acceso a la administracion de Joomla:
+Nombre de usuario:xxx
+Contraseña: xxx

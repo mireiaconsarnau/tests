@@ -5,7 +5,7 @@ class JConfig {
 	public $display_offline_message = '1';
 	public $offline_image = '';
 	public $sitename = 'Web ASIX2';
-	public $editor = 'tinymce';
+	public $editor = 'jce';
 	public $captcha = '0';
 	public $list_limit = '20';
 	public $access = '1';
@@ -50,15 +50,15 @@ class JConfig {
 	public $MetaAuthor = '1';
 	public $MetaVersion = '0';
 	public $robots = '';
-	public $sef = '1';
-	public $sef_rewrite = '1';
+	public $sef = '0';
+	public $sef_rewrite = '0';
 	public $sef_suffix = '0';
 	public $unicodeslugs = '1';
 	public $feed_limit = '10';
 	public $feed_email = 'none';
 	public $log_path = '/var/www/html/webasix/administrator/logs';
 	public $tmp_path = '/var/www/html/webasix/tmp';
-	public $lifetime = '15';
+	public $lifetime = '60';
 	public $session_handler = 'database';
 	public $shared_session = '0';
 	public $memcache_persist = '1';
